@@ -9,6 +9,7 @@ Early Blight
 Late Blight
 Healthy
 Repository Contents
+
 1. EC_LDM512andPROPOSED1024D.ipynb
 
 This notebook contains:
@@ -20,6 +21,7 @@ Class-conditioned latent diffusion training
 Image reconstruction
 Disease-aware latent feature learning
 Training and validation procedures
+
 2. 1024D_EC_LDMClassifier.ipynb
 
 This notebook contains:
@@ -32,6 +34,8 @@ ROC analysis
 Confusion matrix generation
 t-SNE visualization
 SHAP explainability analysis
+
+
 3. classifierplddataset.ipynb
 
 This notebook contains implementations of comparative deep learning classifiers used for benchmarking:
